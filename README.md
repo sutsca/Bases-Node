@@ -7,7 +7,7 @@
 - Abra o projeto na web com os caminhos para testar: 
   localhost:3000/calculadora (para abrir a calculadora),
   localhost:3000/vitrine (para abrir a lojinha com itens a venda),
-  localhost:3000/home (para abrir a calculadora).
+  localhost:3000/home (para abrir o acesso).
 
 
 - Esse projeto serve para ter uma noção inicial como as rotas funcionam em node.  
